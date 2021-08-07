@@ -14,4 +14,4 @@ Realtime chat app with websockets using Node.js, Socket.io with JavaScript
 - run `npm run dev` and go to `localhost:3000` to run the application
 
 ## Sample
-![sample1](./master/images/sample.png)
+![sample1](https://github.com/anandamit07/Kuventra/blob/master/images/sample1.png)
