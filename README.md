@@ -12,3 +12,6 @@ Realtime chat app with websockets using Node.js, Socket.io with JavaScript
 ## Installation 
 - After download or clone run `npm install` to install all the dependancies. 
 - run `npm run dev` and go to `localhost:3000` to run the application
+
+## Sample
+![sample1](../master/images/sample.png)
